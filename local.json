@@ -4,24 +4,14 @@
 			"page": "vert",
 			"type": "b",
 			"tpl_src": "/tpl-dev/bloc1.html",
-			"main_title": [
-				{}
-			],
-			"main_subtitle": [
-				{}
-			],
-			"title": [
-				{}
-			],
-			"subtitle": [
-				{}
-			],
+			"main_title": [],
+			"main_subtitle": [],
+			"title": [],
+			"subtitle": [],
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"label": "Explore",
-			"description": [
-				{}
-			]
+			"description": []
 		}
 	]
 }
