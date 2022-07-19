@@ -7,13 +7,13 @@
 			"who": 0,
 			"main_title": [
 				{
-					"content": "MAIN title?"
+					"content": "mon main titre d'init?"
 				}
 			],
 			"main_subtitle": [],
 			"title": [
 				{
-					"content": "title?"
+					"content": "mon titre qui vient de Init"
 				}
 			],
 			"subtitle": [],
