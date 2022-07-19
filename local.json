@@ -26,7 +26,7 @@
 		{
 			"page": "vert",
 			"type": "b",
-			"tpl_src": "/tplsnew/OKhero.html",
+			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 1,
 			"main_title": [
 				{
@@ -35,14 +35,19 @@
 			],
 			"main_subtitle": [],
 			"title": [
-				{}
+				{
+					"content": "L'original"
+				}
 			],
 			"subtitle": [
-				{}
+				{
+					"content": "A healthy drink"
+				}
 			],
 			"description": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"maliste": []
+			"maliste": [],
+			"label": "Contact us"
 		}
 	]
 }
