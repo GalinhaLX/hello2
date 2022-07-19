@@ -1,0 +1,143 @@
+{
+	"settingsOLD": [
+		{
+			"page": "",
+			"startPage": "vert",
+			"type": "a",
+			"tpl_src": "/tpl-dev/bloc1.html",
+			"title": "settings",
+			"value": 1
+		}
+	],
+	"settings": [
+		{}
+	],
+	"blocs": [
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tpl-dev/testhero.html",
+			"main_title": [
+				{
+					"CSS": "main_title TEXT",
+					"content": "contenu main_title"
+				}
+			],
+			"main_subtitle": "main_subtitle TEXT",
+			"title": "title TEXT",
+			"subtitle": "subtitle TEXT",
+			"btn_title": "brn_title TEXT",
+			"value": 1,
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "home",
+			"type": "rj_container",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"main_title": [
+				{
+					"CSS": "test HERO"
+				}
+			],
+			"title": "Acheter moi",
+			"subtitle": "Ma superbe boisson",
+			"btn_title": "Explore",
+			"value": 1,
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "hero2",
+			"type": "rj_container",
+			"tpl_src": "/tpl-dev/liste1.html",
+			"main_title": [
+				{
+					"CSS": "Mon super TITRE bloc1"
+				}
+			],
+			"main_subtitle": "un sous titre envoyé à Nbloc1",
+			"value": 1,
+			"maliste": [
+				{
+					"title": "aaaa",
+					"subtitle": "aaaaa"
+				},
+				{
+					"title": "titre de la liste",
+					"subtitle": "sous titre de la liste"
+				}
+			],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "hero",
+			"type": "rj_container",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"main_title": [
+				{
+					"CSS": "test HERO"
+				}
+			],
+			"title": "Acheter moi",
+			"subtitle": "Ma superbe boisson",
+			"btn_title": "Explore",
+			"value": 1,
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "hero",
+			"type": "rj_hero",
+			"tpl_src": "/tpl-dev/testhero.html",
+			"main_title": [
+				{
+					"CSS": "test HERO"
+				}
+			],
+			"title": "testhero",
+			"subtitle": "un sous titre envoyé à pour nHERO",
+			"value": 1,
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "vert",
+			"type": "b",
+			"tpl_src": "/tpl-dev/bloc1.html",
+			"main_title": [
+				{
+					"CSS": "Un grand titre"
+				}
+			],
+			"subtitle": "un sous titre envoyé à bloc1",
+			"value": 2,
+			"main_subtitle": "Un beau sous titre",
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		},
+		{
+			"page": "hero",
+			"type": "rj_hero",
+			"tpl_src": "/tpl-dev/nhero.html",
+			"title": "Mon super TITRE pour nHERO",
+			"subtitle": "un sous titre envoyé à pour nHERO",
+			"value": 1,
+			"main_title": [
+				{
+					"CSS": "Vendez tout"
+				}
+			],
+			"main_subtitle": "Soyez maître de votre vitrine",
+			"maliste": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"label": "Explore"
+		}
+	]
+}
