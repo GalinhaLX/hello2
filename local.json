@@ -19,7 +19,9 @@
 			"subtitle": [],
 			"description": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"maliste": []
+			"maliste": [],
+			"label": "Explore",
+			"call_to_action": "contact"
 		}
 	]
 }
