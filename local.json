@@ -3,14 +3,15 @@
 		{
 			"page": "vert",
 			"type": "b",
-			"tpl_src": "/tpl-dev/bloc1.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"main_title": [],
 			"main_subtitle": [],
 			"title": [],
 			"subtitle": [],
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"description": []
+			"description": [],
+			"who": 0
 		}
 	]
 }
