@@ -14,7 +14,7 @@
 			"title": [
 				{
 					"content": "L'original",
-					"style": "is-size-1"
+					"style": "is-size-1 has-text-danger"
 				}
 			],
 			"subtitle": [
