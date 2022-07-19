@@ -20,18 +20,35 @@
 			"main_title": [
 				{
 					"CSS": "main_title TEXT",
-					"content": "contenu main_title",
+					"content": "main title 19",
 					"style": "css style"
 				}
 			],
-			"main_subtitle": "main_subtitle TEXT",
-			"title": "title TEXT",
-			"subtitle": "subtitle TEXT",
+			"main_subtitle": [
+				{
+					"style": "main_subtitle TEXT",
+					"content": "main sub 19"
+				}
+			],
+			"title": [
+				{
+					"style": "title TEXT"
+				}
+			],
+			"subtitle": [
+				{
+					"style": "subtitle TEXT"
+				}
+			],
 			"btn_title": "brn_title TEXT",
 			"value": 1,
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "cta 19",
+			"description": [
+				{}
+			],
+			"call_to_action": "action à faire"
 		},
 		{
 			"page": "home",
@@ -42,13 +59,27 @@
 					"CSS": "test HERO"
 				}
 			],
-			"title": "Acheter moi",
-			"subtitle": "Ma superbe boisson",
+			"title": [
+				{
+					"style": "Acheter moi"
+				}
+			],
+			"subtitle": [
+				{
+					"style": "Ma superbe boisson"
+				}
+			],
 			"btn_title": "Explore",
 			"value": 1,
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"main_subtitle": [
+				{}
+			],
+			"description": [
+				{}
+			]
 		},
 		{
 			"page": "hero2",
@@ -59,7 +90,11 @@
 					"CSS": "Mon super TITRE bloc1"
 				}
 			],
-			"main_subtitle": "un sous titre envoyé à Nbloc1",
+			"main_subtitle": [
+				{
+					"style": "un sous titre envoyé à Nbloc1"
+				}
+			],
 			"value": 1,
 			"maliste": [
 				{
@@ -72,7 +107,16 @@
 				}
 			],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"title": [
+				{}
+			],
+			"subtitle": [
+				{}
+			],
+			"description": [
+				{}
+			]
 		},
 		{
 			"page": "hero",
@@ -83,13 +127,27 @@
 					"CSS": "test HERO"
 				}
 			],
-			"title": "Acheter moi",
-			"subtitle": "Ma superbe boisson",
+			"title": [
+				{
+					"style": "Acheter moi"
+				}
+			],
+			"subtitle": [
+				{
+					"style": "Ma superbe boisson"
+				}
+			],
 			"btn_title": "Explore",
 			"value": 1,
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"main_subtitle": [
+				{}
+			],
+			"description": [
+				{}
+			]
 		},
 		{
 			"page": "hero",
@@ -100,12 +158,26 @@
 					"CSS": "test HERO"
 				}
 			],
-			"title": "testhero",
-			"subtitle": "un sous titre envoyé à pour nHERO",
+			"title": [
+				{
+					"style": "testhero"
+				}
+			],
+			"subtitle": [
+				{
+					"style": "un sous titre envoyé à pour nHERO"
+				}
+			],
 			"value": 1,
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"main_subtitle": [
+				{}
+			],
+			"description": [
+				{}
+			]
 		},
 		{
 			"page": "vert",
@@ -116,29 +188,58 @@
 					"CSS": "Un grand titre"
 				}
 			],
-			"subtitle": "un sous titre envoyé à bloc1",
+			"subtitle": [
+				{
+					"style": "un sous titre envoyé à bloc1"
+				}
+			],
 			"value": 2,
-			"main_subtitle": "Un beau sous titre",
+			"main_subtitle": [
+				{
+					"style": "Un beau sous titre"
+				}
+			],
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"title": [
+				{}
+			],
+			"description": [
+				{}
+			]
 		},
 		{
 			"page": "hero",
 			"type": "rj_hero",
 			"tpl_src": "/tpl-dev/nhero.html",
-			"title": "Mon super TITRE pour nHERO",
-			"subtitle": "un sous titre envoyé à pour nHERO",
+			"title": [
+				{
+					"style": "Mon super TITRE pour nHERO"
+				}
+			],
+			"subtitle": [
+				{
+					"style": "un sous titre envoyé à pour nHERO"
+				}
+			],
 			"value": 1,
 			"main_title": [
 				{
 					"CSS": "Vendez tout"
 				}
 			],
-			"main_subtitle": "Soyez maître de votre vitrine",
+			"main_subtitle": [
+				{
+					"style": "Soyez maître de votre vitrine"
+				}
+			],
 			"maliste": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"label": "Explore"
+			"label": "Explore",
+			"description": [
+				{}
+			]
 		}
 	]
 }
