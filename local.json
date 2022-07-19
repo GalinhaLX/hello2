@@ -3,30 +3,7 @@
 		{
 			"page": "vert",
 			"type": "b",
-			"tpl_src": "/tplsnew/OKhero2.html",
-			"who": 0,
-			"main_title": [
-				{
-					"content": "mon main titre d'init?"
-				}
-			],
-			"main_subtitle": [],
-			"title": [
-				{
-					"content": "mon titre qui vient de Init"
-				}
-			],
-			"subtitle": [],
-			"description": [],
-			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"maliste": [],
-			"label": "Explore",
-			"call_to_action": "contact"
-		},
-		{
-			"page": "vert",
-			"type": "b",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 1,
 			"main_title": [
 				{
@@ -36,7 +13,8 @@
 			"main_subtitle": [],
 			"title": [
 				{
-					"content": "L'original"
+					"content": "L'original",
+					"style": "is-size-1"
 				}
 			],
 			"subtitle": [
