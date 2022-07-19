@@ -1,10 +1,10 @@
 {
 	"blocs": [
 		{
-			"page": "vert",
-			"type": "b",
-			"tpl_src": "/tplsnew/OKhero2.html",
-			"who": 1,
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 0,
 			"main_title": [
 				{
 					"content": "MAIN title?"
@@ -13,19 +13,118 @@
 			"main_subtitle": [],
 			"title": [
 				{
-					"content": "The Original",
-					"style": "is-size-1 has-text-danger"
+					"content": ""
+				}
+			],
+			"subtitle": [
+				{}
+			],
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": [],
+			"label": "Contact me"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/hero.html",
+			"who": 0,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": "hello title"
 				}
 			],
 			"subtitle": [
 				{
-					"content": "Finally, something really good to drink. A real healthy drink that invites itself to your table every day."
+					"content": "sub title"
 				}
 			],
 			"description": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"maliste": [],
-			"label": "Explore"
+			"label": "Contact me"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/hero.html",
+			"who": 0,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": "hello title"
+				}
+			],
+			"subtitle": [
+				{
+					"content": "sub title"
+				}
+			],
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": [],
+			"label": "Contact me"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 3,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": ""
+				}
+			],
+			"subtitle": [
+				{}
+			],
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": [],
+			"label": "Contact me"
+		},
+		{
+			"page": "vert",
+			"type": "b",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 4,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": "L'original"
+				}
+			],
+			"subtitle": [
+				{
+					"content": "A healthy drink"
+				}
+			],
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": [],
+			"label": "Contact us"
 		}
 	]
 }
