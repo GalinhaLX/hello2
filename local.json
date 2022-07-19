@@ -20,7 +20,8 @@
 			"main_title": [
 				{
 					"CSS": "main_title TEXT",
-					"content": "contenu main_title"
+					"content": "contenu main_title",
+					"style": "css style"
 				}
 			],
 			"main_subtitle": "main_subtitle TEXT",
