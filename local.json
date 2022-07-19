@@ -3,7 +3,7 @@
 		{
 			"page": "vert",
 			"type": "b",
-			"tpl_src": "/tplsnew/OKhero.html",
+			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 1,
 			"main_title": [
 				{
@@ -19,13 +19,13 @@
 			],
 			"subtitle": [
 				{
-					"content": "Finally, something really good to drink. A real healthy drink that invites itself to your table every day. "
+					"content": "Finally, something really good to drink. A real healthy drink that invites itself to your table every day."
 				}
 			],
 			"description": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Explore"
 		}
 	]
 }
