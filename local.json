@@ -22,6 +22,29 @@
 			"maliste": [],
 			"label": "Explore",
 			"call_to_action": "contact"
+		},
+		{
+			"page": "vert",
+			"type": "b",
+			"tpl_src": "/tplsnew/OKhero2.html",
+			"who": 1,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": "title?"
+				}
+			],
+			"subtitle": [
+				{}
+			],
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": []
 		}
 	]
 }
