@@ -26,7 +26,7 @@
 		{
 			"page": "vert",
 			"type": "b",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 1,
 			"main_title": [
 				{
@@ -35,9 +35,7 @@
 			],
 			"main_subtitle": [],
 			"title": [
-				{
-					"content": "title?"
-				}
+				{}
 			],
 			"subtitle": [
 				{}
