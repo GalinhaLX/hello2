@@ -25,6 +25,30 @@
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"maliste": [],
 			"label": "Contact us"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 1,
+			"main_title": [
+				{
+					"content": "MAIN title?"
+				}
+			],
+			"main_subtitle": [],
+			"title": [
+				{
+					"content": "Title"
+				}
+			],
+			"subtitle": [
+				{}
+			],
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"maliste": [],
+			"label": "Contact us"
 		}
 	]
 }
