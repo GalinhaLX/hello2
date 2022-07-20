@@ -12,9 +12,7 @@
 			],
 			"main_subtitle": [],
 			"title": [
-				{
-					"content": "L'original"
-				}
+				"Title inner HTML"
 			],
 			"subtitle": [
 				{
@@ -37,18 +35,14 @@
 				}
 			],
 			"main_subtitle": [],
-			"title": [
-				{
-					"content": "Title"
-				}
-			],
+			"title": "Title inner HTML\n\n                                            ",
 			"subtitle": [
 				{}
 			],
 			"description": [],
-			"image": "/assets/img/p1.png",
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Contact me"
 		}
 	]
 }
