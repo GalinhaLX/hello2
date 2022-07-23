@@ -19,13 +19,13 @@
 					}
 				]
 			],
+			"title_style": "is-size-6",
 			"subtitle": [
 				"hahah",
 				[
 					{}
 				]
 			],
-			"subtitle_style": "is-size-1",
 			"description": [],
 			"image": "/assets/img/p1.png",
 			"maliste": [],
