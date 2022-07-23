@@ -4,16 +4,16 @@
 	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet ne,nb ,c, accumsan aliquet orci.",
 	"member": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@10e642ec9a162c6c159c625d8fa147142186082d/images/16585994325016814686558942283697.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@b0a9eb517e4959a6b237612b390281ed1fcadc08/images/Vakcin%20Kvas.jpg",
 			"team_member_name": "HahaJohn DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Hello wanted to provide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@10e642ec9a162c6c159c625d8fa147142186082d/images/16585994325016814686558942283697.jpg",
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	]
 }
