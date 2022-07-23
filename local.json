@@ -3,14 +3,18 @@
 		{
 			"page": "home",
 			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
+			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 0,
 			"main_title": [
 				{
 					"content": "MAIN title?"
 				}
 			],
-			"main_subtitle": [],
+			"main_subtitle": [
+				{
+					"content": "our main subtitle"
+				}
+			],
 			"title": [
 				"hahah",
 				[
@@ -19,7 +23,7 @@
 					}
 				]
 			],
-			"title_style": "is-size-6",
+			"title_style": "is-size-1",
 			"subtitle": [
 				"hahah",
 				[
