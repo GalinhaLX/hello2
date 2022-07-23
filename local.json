@@ -5,31 +5,26 @@
 			"type": "rj_hero",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 0,
-			"main_title": [
-				{
-					"content": "MAIN title?"
-				}
-			],
+			"main_title": [],
 			"main_subtitle": [
-				{
-					"content": "our main subtitle"
-				}
+				{}
 			],
 			"title": [
-				"hahah",
+				"please let me",
 				[
 					{
 						"content": "Title mv-list-item_content"
 					}
 				]
 			],
-			"title_style": "is-size-1",
+			"title_style": "delta uppercase thin raleway color-emphasis-2 ls-medium has-text-centered",
 			"subtitle": [
-				"hahah",
+				"scale",
 				[
 					{}
 				]
 			],
+			"subtitle_style": "supersize montserrat bold has-text-centered",
 			"description": [],
 			"image": "/assets/img/p1.png",
 			"maliste": [],
