@@ -1,5 +1,4 @@
 {
-	"visutest": "VISU TEST",
 	"blocs": [
 		{
 			"page": "home",
@@ -7,9 +6,7 @@
 			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 0,
 			"main_title": [],
-			"main_subtitle": [
-				{}
-			],
+			"main_subtitle": [],
 			"title": [
 				"The Original",
 				[
@@ -18,36 +15,6 @@
 					}
 				]
 			],
-			"subtitle": [
-				"hahah",
-				[
-					{}
-				]
-			],
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us"
-		},
-		{
-			"page": "home",
-			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero2.html",
-			"who": 1,
-			"main_title": [],
-			"main_subtitle": [
-				{}
-			],
-			"title": [
-				"The Original",
-				[
-					{
-						"content": "Title mv-list-item_content"
-					}
-				]
-			],
-			"title_style": "mb-4 is-size-2 is-size-3-mobile has-text-weight-bold",
 			"subtitle": [
 				"hahah",
 				[
