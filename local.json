@@ -1,31 +1,3 @@
 {
-	"blocs": [
-		{
-			"page": "home",
-			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
-			"who": 0,
-			"main_title": [],
-			"main_subtitle": [],
-			"title": [
-				"The Original",
-				[
-					{
-						"content": "Title mv-list-item_content"
-					}
-				]
-			],
-			"subtitle": [
-				"hahah",
-				[
-					{}
-				]
-			],
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us"
-		}
-	]
+	"blocs": []
 }
