@@ -8,11 +8,13 @@
 			"who": 0,
 			"main_title": [
 				{
-					"content": "MAIN title?"
+					"content": "mon nouveau main title"
 				}
 			],
 			"main_subtitle": [
-				{}
+				{
+					"content": "mon nouveau Sous titre"
+				}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
