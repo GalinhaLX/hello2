@@ -8,13 +8,11 @@
 			"who": 0,
 			"main_title": [
 				{
-					"content": "mon nouveau main title"
+					"style": "title has-text-centered mb-1 is-size-2-mobile is-size-1-desktop"
 				}
 			],
 			"main_subtitle": [
-				{
-					"content": "mon nouveau Sous titre"
-				}
+				{}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
@@ -22,7 +20,9 @@
 			"image": "/assets/img/p1.png",
 			"image_style": "has-radius",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Contact us",
+			"title_style": "title mb-4 is-size-2-mobile is-size-1-desktop",
+			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop"
 		}
 	]
 }
