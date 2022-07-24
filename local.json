@@ -18,35 +18,6 @@
 					}
 				]
 			],
-			"title_style": "tera uppercase is-size-d vollkorn bold normal",
-			"subtitle": [
-				"Finally, something really good to drink. A real healthy drink that invites itself to your table every day.",
-				[
-					{}
-				]
-			],
-			"description": [],
-			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"maliste": [],
-			"label": "Explore"
-		},
-		{
-			"page": "home",
-			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
-			"who": 1,
-			"main_title": [],
-			"main_subtitle": [
-				{}
-			],
-			"title": [
-				"The Original",
-				[
-					{
-						"content": "Title mv-list-item_content"
-					}
-				]
-			],
 			"subtitle": [
 				"hahah",
 				[
@@ -54,35 +25,8 @@
 				]
 			],
 			"description": [],
-			"image": "/assets/img/p1.png",
-			"maliste": [],
-			"label": "Contact us"
-		},
-		{
-			"page": "home",
-			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
-			"who": 2,
-			"main_title": [],
-			"main_subtitle": [
-				{}
-			],
-			"title": [
-				"The Original dfv cxvbcvb",
-				[
-					{
-						"content": "Title mv-list-item_content"
-					}
-				]
-			],
-			"subtitle": [
-				"hahah",
-				[
-					{}
-				]
-			],
-			"description": [],
-			"image": "/assets/img/p1.png",
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@773ea650a2401579636b75285c1507a3d8ba8607/images/kv.jpeg",
+			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us"
 		}
