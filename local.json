@@ -18,8 +18,9 @@
 					}
 				]
 			],
+			"title_style": "tera uppercase is-size-1 vollkorn bold normal",
 			"subtitle": [
-				"Finally, something really good to drink. A real healthy drink that invites itself to your table every day. ",
+				"Finally, something really good to drink. A real healthy drink that invites itself to your table every day.",
 				[
 					{}
 				]
@@ -27,7 +28,7 @@
 			"description": [],
 			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Explore"
 		},
 		{
 			"page": "home",
@@ -39,7 +40,7 @@
 				{}
 			],
 			"title": [
-				"hahah",
+				"The Original",
 				[
 					{
 						"content": "Title mv-list-item_content"
