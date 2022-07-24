@@ -1,30 +1,57 @@
 {
+	"visutest": "VISU TEST",
 	"blocs": [
 		{
 			"page": "home",
 			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 0,
 			"main_title": [],
 			"main_subtitle": [
 				{}
 			],
 			"title": [
-				"please let me",
+				"The Original",
 				[
 					{
 						"content": "Title mv-list-item_content"
 					}
 				]
 			],
-			"title_style": "delta uppercase thin raleway color-emphasis-2 ls-medium has-text-centered",
 			"subtitle": [
-				"scale",
+				"Finally, something really good to drink. A real healthy drink that invites itself to your table every day. ",
 				[
 					{}
 				]
 			],
-			"subtitle_style": "supersize montserrat bold has-text-centered",
+			"description": [],
+			"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 1,
+			"main_title": [],
+			"main_subtitle": [
+				{}
+			],
+			"title": [
+				"hahah",
+				[
+					{
+						"content": "Title mv-list-item_content"
+					}
+				]
+			],
+			"subtitle": [
+				"hahah",
+				[
+					{}
+				]
+			],
 			"description": [],
 			"image": "/assets/img/p1.png",
 			"maliste": [],
