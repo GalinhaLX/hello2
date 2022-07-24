@@ -8,12 +8,12 @@
 			"who": 0,
 			"main_title": [
 				{
-					"style": "title has-text-centered mb-1 is-size-2-mobile is-size-1-desktop"
+					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
 				}
 			],
 			"main_subtitle": [
 				{
-					"style": "subtitle has-text-centered mb-2 is-size-2-mobile is-size-1-desktop"
+					"style": "subtitle has-text-centered mb-2"
 				}
 			],
 			"title": "The Original",
