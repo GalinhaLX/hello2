@@ -18,7 +18,7 @@
 					}
 				]
 			],
-			"title_style": "tera uppercase is-size-1 vollkorn bold normal",
+			"title_style": "tera uppercase is-size-d vollkorn bold normal",
 			"subtitle": [
 				"Finally, something really good to drink. A real healthy drink that invites itself to your table every day.",
 				[
@@ -41,6 +41,34 @@
 			],
 			"title": [
 				"The Original",
+				[
+					{
+						"content": "Title mv-list-item_content"
+					}
+				]
+			],
+			"subtitle": [
+				"hahah",
+				[
+					{}
+				]
+			],
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"who": 2,
+			"main_title": [],
+			"main_subtitle": [
+				{}
+			],
+			"title": [
+				"The Original dfv cxvbcvb",
 				[
 					{
 						"content": "Title mv-list-item_content"
