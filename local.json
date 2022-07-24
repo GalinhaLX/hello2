@@ -25,7 +25,37 @@
 				]
 			],
 			"description": [],
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@773ea650a2401579636b75285c1507a3d8ba8607/images/kv.jpeg",
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"page": "home",
+			"type": "rj_hero",
+			"tpl_src": "/tplsnew/OKhero2.html",
+			"who": 1,
+			"main_title": [],
+			"main_subtitle": [
+				{}
+			],
+			"title": [
+				"The Original",
+				[
+					{
+						"content": "Title mv-list-item_content"
+					}
+				]
+			],
+			"title_style": "mb-4 is-size-2 is-size-3-mobile has-text-weight-bold",
+			"subtitle": [
+				"hahah",
+				[
+					{}
+				]
+			],
+			"description": [],
+			"image": "/assets/img/p1.png",
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us"
