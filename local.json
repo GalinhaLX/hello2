@@ -12,7 +12,9 @@
 				}
 			],
 			"main_subtitle": [
-				{}
+				{
+					"style": "subtitle has-text-centered mb-2 is-size-2-mobile is-size-1-desktop"
+				}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
