@@ -14,7 +14,6 @@
 			],
 			"main_subtitle": [
 				{
-					"content": "test tpl déplacé",
 					"style": "subtitle has-text-centered mb-2"
 				}
 			],
@@ -26,33 +25,7 @@
 			"maliste": [],
 			"label": "Contact us",
 			"title_style": "title mb-4 is-size-2-mobile is-size-1-desktop",
-			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop"
-		},
-		{
-			"color": "#000000",
-			"page": "home",
-			"type": "rj_hero",
-			"who": 1,
-			"tpl_src": "/tplsnew/OKhero.html",
-			"main_title": [
-				{
-					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
-				}
-			],
-			"main_subtitle": [
-				{
-					"style": "subtitle has-text-centered mb-2"
-				}
-			],
-			"title": "The Original",
-			"title_style": "title mb-4 is-size-2-mobile is-size-1-desktop",
-			"subtitle": "hahah",
-			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop",
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us"
+			"subtitle_style": " mb-4"
 		}
 	]
 }
