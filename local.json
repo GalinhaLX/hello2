@@ -25,7 +25,7 @@
 			"maliste": [],
 			"label": "Contact us",
 			"title_style": "title mb-4 is-size-2-mobile is-size-1-desktop",
-			"subtitle_style": " mb-4"
+			"subtitle_style": "subtitle "
 		}
 	]
 }
