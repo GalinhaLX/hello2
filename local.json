@@ -8,7 +8,6 @@
 			"who": 0,
 			"main_title": [
 				{
-					"content": "MAIN title?",
 					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
 				}
 			],
