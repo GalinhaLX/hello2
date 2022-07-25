@@ -8,7 +8,8 @@
 			"who": 0,
 			"main_title": [
 				{
-					"style": "subtitle has-text-centered is-size-2-mobile is-size-1-desktop"
+					"content": "MAIN title?",
+					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
 				}
 			],
 			"main_subtitle": [
@@ -30,8 +31,8 @@
 			"color": "#000000",
 			"page": "home",
 			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 1,
+			"tpl_src": "/tplsnew/OKhero2.html",
 			"main_title": [
 				{
 					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
