@@ -36,11 +36,13 @@
 			"who": 1,
 			"main_title": [
 				{
+					"content": "&&&&&&&",
 					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
 				}
 			],
 			"main_subtitle": [
 				{
+					"content": "éééééé",
 					"style": "subtitle has-text-centered mb-2"
 				}
 			],
