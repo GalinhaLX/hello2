@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"type": "rj_hero",
+			"type": "",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 0,
 			"main_title": [
