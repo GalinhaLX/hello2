@@ -19,7 +19,9 @@
 			"image": "/assets/img/p1.png",
 			"image_style": "has-radius",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Contact us",
+			"title_style": "has-text-danger is-size-c cardo",
+			"subtitle_style": "has-text-danger"
 		},
 		{
 			"color": "#000000",
@@ -43,7 +45,7 @@
 			"image": "/assets/img/p2.png",
 			"image_style": "has-radius",
 			"maliste": [],
-			"label": "Contact us",
+			"label": "Explore",
 			"caterogyFilter": "team",
 			"type": "rj_hero",
 			"title_style": "has-text-info",
