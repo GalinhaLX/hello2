@@ -24,7 +24,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 1,
 			"main_title": [
 				{
@@ -44,7 +44,7 @@
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us",
-			"caterogyFilter": "team",
+			"caterogyFilter": "pricing",
 			"type": "rj_hero",
 			"title_style": "has-text-info",
 			"subtitle": "hahah"
