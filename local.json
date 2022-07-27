@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"tpl_src": "/tplsnew/OKhero.html",
+			"tpl_src": "/tplsnew/main_title.html",
 			"who": 0,
 			"main_title": [
 				{
@@ -17,14 +17,13 @@
 					"content": "azearaezr"
 				}
 			],
-			"title": "The Original AAAA",
-			"subtitle": "hahah 1111",
+			"title": "Title",
 			"description": [],
 			"image": "/assets/img/p2.png",
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us",
-			"caterogyFilter": "pricing",
+			"caterogyFilter": "hero",
 			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop",
 			"type": "rj_hero"
 		},
