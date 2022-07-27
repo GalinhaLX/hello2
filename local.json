@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"type": "rj_hero",
+			"type": "rj_main_title",
 			"tpl_src": "/tplsnew/main_title.html",
 			"caterogyFilter": "hero",
 			"who": 0,
