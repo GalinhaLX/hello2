@@ -24,8 +24,9 @@
 			"maliste": [],
 			"label": "Contact us",
 			"caterogyFilter": "hero",
-			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop",
-			"type": "rj_hero"
+			"type": "rj_hero",
+			"title_style": "has-text-info",
+			"subtitle": "hahah"
 		},
 		{
 			"color": "#000000",
