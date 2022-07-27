@@ -3,8 +3,29 @@
 		{
 			"color": "#000000",
 			"page": "home",
+			"type": "rj_hero",
 			"tpl_src": "/tplsnew/main_title.html",
+			"caterogyFilter": "hero",
 			"who": 0,
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"tpl_src": "/tplsnew/OKhero2.html",
+			"who": 1,
 			"main_title": [
 				{
 					"content": "mon MAIN title?",
@@ -23,7 +44,7 @@
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us",
-			"caterogyFilter": "hero",
+			"caterogyFilter": "team",
 			"type": "rj_hero",
 			"title_style": "has-text-info",
 			"subtitle": "hahah"
@@ -34,7 +55,7 @@
 			"type": "rj_hero",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"caterogyFilter": "pricing",
-			"who": 1,
+			"who": 2,
 			"main_title": [
 				{
 					"content": "&&&&&&&",
