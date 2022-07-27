@@ -3,13 +3,12 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"type": "",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"who": 0,
 			"main_title": [
 				{
 					"content": "mon MAIN title?",
-					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
+					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop has-text-danger"
 				}
 			],
 			"main_subtitle": [
