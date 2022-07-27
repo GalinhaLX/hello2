@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/OKhero.html",
 			"who": 0,
 			"main_title": [
 				{
@@ -13,24 +13,26 @@
 			],
 			"main_subtitle": [
 				{
-					"style": "subtitle has-text-centered mb-2"
+					"style": "subtitle has-text-centered mb-2",
+					"content": "azearaezr"
 				}
 			],
 			"title": "The Original AAAA",
 			"subtitle": "hahah 1111",
 			"description": [],
-			"image": "/assets/img/p1.png",
+			"image": "/assets/img/p2.png",
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Contact us",
 			"caterogyFilter": "pricing",
-			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop"
+			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop",
+			"type": "rj_hero"
 		},
 		{
 			"color": "#000000",
 			"page": "home",
 			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero.html",
+			"tpl_src": "/tplsnew/OKhero2.html",
 			"caterogyFilter": "pricing",
 			"who": 1,
 			"main_title": [
