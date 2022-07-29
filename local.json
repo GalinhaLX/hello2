@@ -23,8 +23,7 @@
 			"title_style": "has-text-danger is-size-c cardo",
 			"subtitle_style": "has-text-danger",
 			"email": "foo@example.com",
-			"message": "            Edit the form and notice how the values persist after you refresh!\n        ",
-			"montexte": "cvbn,;:"
+			"message": "            Edit the form and notice how the values persist after you refresh!\n        "
 		},
 		{
 			"color": "#000000",
