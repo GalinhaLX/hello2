@@ -3,33 +3,8 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"type": "rj_main_title",
-			"tpl_src": "/tplsnew/main_title.html",
-			"caterogyFilter": "hero",
-			"who": 0,
-			"main_title": [
-				{}
-			],
-			"main_subtitle": [
-				{}
-			],
-			"title": "The Original",
-			"subtitle": "hahah",
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us",
-			"title_style": "has-text-danger is-size-c cardo",
-			"subtitle_style": "has-text-danger",
-			"email": "foo@example.com",
-			"message": "            Edit the form and notice how the values persist after you refresh!\n        "
-		},
-		{
-			"color": "#000000",
-			"page": "home",
 			"tpl_src": "/tplsnew/OKhero2.html",
-			"who": 1,
+			"who": 0,
 			"main_title": [
 				{
 					"content": "mon MAIN title?",
@@ -52,36 +27,6 @@
 			"type": "rj_hero",
 			"title_style": "has-text-info",
 			"subtitle": "hahah",
-			"email": "foo@example.com",
-			"message": "            Edit the form and notice how the values persist after you refresh!\n        "
-		},
-		{
-			"color": "#000000",
-			"page": "home",
-			"type": "rj_hero",
-			"tpl_src": "/tplsnew/OKhero2.html",
-			"caterogyFilter": "pricing",
-			"who": 2,
-			"main_title": [
-				{
-					"content": "&&&&&&&",
-					"style": "title has-text-centered is-size-2-mobile is-size-1-desktop"
-				}
-			],
-			"main_subtitle": [
-				{
-					"content": "éééééé",
-					"style": "subtitle has-text-centered mb-2"
-				}
-			],
-			"title": "The Original",
-			"subtitle": "hahah",
-			"subtitle_style": "subtitle mb-4 is-size-3-mobile is-size-2-desktop",
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us",
 			"email": "foo@example.com",
 			"message": "            Edit the form and notice how the values persist after you refresh!\n        "
 		}
