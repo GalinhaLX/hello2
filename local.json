@@ -28,7 +28,12 @@
 			"title_style": "has-text-info",
 			"subtitle": "hahah",
 			"email": "foo@example.com",
-			"message": "            Edit the form and notice how the values persist after you refresh!\n        "
+			"message": "            Edit the form and notice how the values persist after you refresh!\n        ",
+			"min_count": 1,
+			"max_count": 3,
+			"menu_item": [
+				{}
+			]
 		}
 	]
 }
