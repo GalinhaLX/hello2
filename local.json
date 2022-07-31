@@ -33,7 +33,8 @@
 			"max_count": 3,
 			"menu_item": [
 				{}
-			]
+			],
+			"anchor": "Home"
 		}
 	]
 }
