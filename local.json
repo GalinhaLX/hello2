@@ -73,10 +73,15 @@
 			"maxSocial": 3,
 			"listsocial": [],
 			"main_title": [
-				{}
+				{
+					"content": "Our Products",
+					"style": "has-text-centered"
+				}
 			],
 			"main_subtitle": [
-				{}
+				{
+					"content": "sub mau"
+				}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
@@ -88,74 +93,6 @@
 			"maliste": [],
 			"label": "Contact us",
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=2",
-			"background_image_style": "has-radius",
-			"background_video_style": "has-radius",
-			"brand": "Brand Name"
-		},
-		{
-			"color": "#000000",
-			"type": "rj_nav",
-			"keyword": "portugal",
-			"tpl_src": "/tplsnew/OKhero.html",
-			"caterogyFilter": "pricing",
-			"who": 2,
-			"anchor": "Home",
-			"minMenu": 1,
-			"maxMenu": 4,
-			"listmenu": [],
-			"minSocial": 1,
-			"maxSocial": 3,
-			"listsocial": [],
-			"main_title": [
-				{}
-			],
-			"main_subtitle": [
-				{}
-			],
-			"title": "The Original",
-			"subtitle": "hahah",
-			"description": [],
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@c4840ba046807afdb8e2d1f2f952ef301591b764/images/avatar.png",
-			"image_style": "has-radius",
-			"logo": "https://bulma.io/images/bulma-logo.png",
-			"logo_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us",
-			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=3",
-			"background_image_style": "has-radius",
-			"background_video_style": "has-radius",
-			"brand": "Brand Name"
-		},
-		{
-			"color": "#000000",
-			"type": "rj_nav",
-			"keyword": "portugal",
-			"tpl_src": "/tplsnew/OKhero.html",
-			"caterogyFilter": "pricing",
-			"who": 3,
-			"anchor": "Home",
-			"minMenu": 1,
-			"maxMenu": 4,
-			"listmenu": [],
-			"minSocial": 1,
-			"maxSocial": 3,
-			"listsocial": [],
-			"main_title": [
-				{}
-			],
-			"main_subtitle": [
-				{}
-			],
-			"title": "The Original",
-			"subtitle": "hahah",
-			"description": [],
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@6f997283c8a604197a48cbbdf8c25fe21330465d/images/0eeb5a24-ab92-4f7f-82a3-b9605ae0725b",
-			"image_style": "has-radius",
-			"logo": "https://bulma.io/images/bulma-logo.png",
-			"logo_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us",
-			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=4",
 			"background_image_style": "has-radius",
 			"background_video_style": "has-radius",
 			"brand": "Brand Name"
