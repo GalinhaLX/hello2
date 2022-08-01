@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"tpl_src": "/tplsnew/OKhero2.html",
+			"tpl_src": "/tplsnew/hero_nav1.html",
 			"who": 0,
 			"main_title": [
 				{
@@ -23,7 +23,7 @@
 			"image_style": "has-radius",
 			"maliste": [],
 			"label": "Explore",
-			"caterogyFilter": "team",
+			"caterogyFilter": "nav",
 			"type": "rj_hero",
 			"title_style": "has-text-info",
 			"subtitle": "hahah",
@@ -34,7 +34,242 @@
 			"menu_item": [
 				{}
 			],
-			"anchor": "Home"
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [
+				{
+					"content": "Home"
+				},
+				{
+					"content": "Home"
+				},
+				{
+					"content": "Home"
+				}
+			],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				},
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				}
+			],
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 1,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 2,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 3,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 4,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 5,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 6,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 7,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
 		}
 	]
 }
