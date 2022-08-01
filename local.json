@@ -1,3 +1,34 @@
 {
-
+	"blocs": [
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/hero_nav2.html",
+			"caterogyFilter": "nav",
+			"who": 0,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		}
+	]
 }
