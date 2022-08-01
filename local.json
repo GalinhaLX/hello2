@@ -3,7 +3,7 @@
 		{
 			"color": "#000000",
 			"page": "home",
-			"tpl_src": "/tplsnew/hero_nav1.html",
+			"tpl_src": "/tplsnew/hero_nav2.html",
 			"who": 0,
 			"main_title": [
 				{
