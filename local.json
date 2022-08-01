@@ -4,8 +4,8 @@
 			"color": "#000000",
 			"page": "vert",
 			"type": "rj_heroA",
-			"tpl_src": "/tplsnew/hero_nav1.html",
-			"caterogyFilter": "nav",
+			"tpl_src": "/tplsnew/main_title_divs.html",
+			"caterogyFilter": "Attract",
 			"who": 0,
 			"anchor": "Home",
 			"minMenu": 1,
@@ -57,60 +57,9 @@
 			"color": "#000000",
 			"page": "vert",
 			"type": "rj_heroA",
-			"tpl_src": "/tplsnew/OKhero2.html",
-			"caterogyFilter": "pricing",
+			"tpl_src": "/tplsnew/main_title_btn.html",
+			"caterogyFilter": "Title",
 			"who": 1,
-			"anchor": "Home",
-			"minMenu": 1,
-			"maxMenu": 4,
-			"listmenu": [
-				{
-					"content": "Home"
-				},
-				{
-					"content": "Home"
-				}
-			],
-			"minSocial": 1,
-			"maxSocial": 3,
-			"listsocial": [
-				{
-					"social_profile_link": "https://www.instagram.com/username/"
-				},
-				{
-					"social_profile_link": "https://www.instagram.com/username/"
-				},
-				{
-					"social_profile_link": "https://www.instagram.com/username/"
-				}
-			],
-			"main_title": [
-				{
-					"content": "dsqds"
-				}
-			],
-			"main_subtitle": [
-				{
-					"content": "qsdqsd"
-				}
-			],
-			"title": "The Original",
-			"subtitle": "hahah",
-			"description": [],
-			"image": "/assets/img/p1.png",
-			"image_style": "has-radius",
-			"logo": "https://bulma.io/images/bulma-logo.png",
-			"logo_style": "has-radius",
-			"maliste": [],
-			"label": "Contact us"
-		},
-		{
-			"color": "#000000",
-			"page": "vert",
-			"type": "rj_heroA",
-			"tpl_src": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
-			"caterogyFilter": "pricing",
-			"who": 2,
 			"anchor": "Home",
 			"minMenu": 1,
 			"maxMenu": 4,
