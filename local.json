@@ -4,21 +4,95 @@
 			"color": "#000000",
 			"page": "home",
 			"type": "rj_heroA",
-			"tpl_src": "/tplsnew/hero_nav2.html",
+			"tpl_src": "/tplsnew/hero_nav1.html",
 			"caterogyFilter": "nav",
 			"who": 0,
 			"anchor": "Home",
 			"minMenu": 1,
 			"maxMenu": 4,
-			"listmenu": [],
+			"listmenu": [
+				{
+					"content": "Home"
+				},
+				{
+					"content": "About us"
+				},
+				{
+					"content": "FAQ"
+				},
+				{
+					"content": "Contact us"
+				}
+			],
 			"minSocial": 1,
 			"maxSocial": 3,
-			"listsocial": [],
+			"listsocial": [
+				{
+					"social_profile_link": "https://www.tiktok.com/username/"
+				},
+				{
+					"social_profile_link": "https://www.twitter.com/username/"
+				},
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				}
+			],
 			"main_title": [
 				{}
 			],
 			"main_subtitle": [
 				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "home",
+			"type": "rj_heroA",
+			"tpl_src": "/tplsnew/OKhero2.html",
+			"caterogyFilter": "pricing",
+			"who": 1,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [
+				{
+					"content": "Home"
+				},
+				{
+					"content": "Home"
+				}
+			],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				},
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				},
+				{
+					"social_profile_link": "https://www.instagram.com/username/"
+				}
+			],
+			"main_title": [
+				{
+					"content": "dsqds"
+				}
+			],
+			"main_subtitle": [
+				{
+					"content": "qsdqsd"
+				}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
