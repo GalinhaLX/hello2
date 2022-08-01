@@ -3,7 +3,6 @@
 		{
 			"color": "#000000",
 			"page": "vert",
-			"type": "rj_heroA",
 			"tpl_src": "/tplsnew/main_title_divs.html",
 			"caterogyFilter": "Attract",
 			"who": 0,
@@ -51,12 +50,12 @@
 			"logo": "https://bulma.io/images/bulma-logo.png",
 			"logo_style": "has-radius",
 			"maliste": [],
-			"label": "Contact us"
+			"label": "Contact us",
+			"keyword": "restaurant,food,portugal,lisbon"
 		},
 		{
 			"color": "#000000",
 			"page": "vert",
-			"type": "rj_heroA",
 			"tpl_src": "/tplsnew/main_title_btn.html",
 			"caterogyFilter": "Title",
 			"who": 1,
@@ -77,6 +76,96 @@
 			"subtitle": "hahah",
 			"description": [],
 			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us",
+			"keyword": "restaurant,food,portugal,lisbon"
+		},
+		{
+			"color": "#000000",
+			"type": "rj_nav",
+			"keyword": "restaurant,food,portugal,lisbon",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 2,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "https://source.unsplash.com/600x600/?restaurant,food,portugal,lisbon&pic=3",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"type": "rj_nav",
+			"keyword": "restaurant,food,portugal,lisbon",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 3,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "https://source.unsplash.com/600x600/?restaurant,food,portugal,lisbon&pic=4",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"type": "rj_nav",
+			"keyword": "france,wine",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"who": 4,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
 			"image_style": "has-radius",
 			"logo": "https://bulma.io/images/bulma-logo.png",
 			"logo_style": "has-radius",
