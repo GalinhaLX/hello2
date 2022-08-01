@@ -2,7 +2,7 @@
 	"blocs": [
 		{
 			"color": "#000000",
-			"page": "home",
+			"page": "vert",
 			"type": "rj_heroA",
 			"tpl_src": "/tplsnew/hero_nav1.html",
 			"caterogyFilter": "nav",
@@ -55,7 +55,7 @@
 		},
 		{
 			"color": "#000000",
-			"page": "home",
+			"page": "vert",
 			"type": "rj_heroA",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"caterogyFilter": "pricing",
@@ -93,6 +93,36 @@
 				{
 					"content": "qsdqsd"
 				}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "/assets/img/p1.png",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"maliste": [],
+			"label": "Contact us"
+		},
+		{
+			"color": "#000000",
+			"page": "vert",
+			"type": "rj_heroA",
+			"tpl_src": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
+			"caterogyFilter": "pricing",
+			"who": 2,
+			"anchor": "Home",
+			"minMenu": 1,
+			"maxMenu": 4,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 3,
+			"listsocial": [],
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
 			],
 			"title": "The Original",
 			"subtitle": "hahah",
