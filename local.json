@@ -11,29 +11,36 @@
 			"maxMenu": 4,
 			"listmenu": [
 				{
-					"content": "Home"
+					"content": "Home",
+					"style": "flat"
 				},
 				{
-					"content": "About us"
+					"content": "About us",
+					"style": "flat"
 				},
 				{
-					"content": "FAQ"
+					"content": "FAQ",
+					"style": "flat"
 				},
 				{
-					"content": "Contact us"
+					"content": "Contact us",
+					"style": "flat"
 				}
 			],
 			"minSocial": 1,
 			"maxSocial": 3,
 			"listsocial": [
 				{
-					"social_profile_link": "https://www.tiktok.com/username/"
+					"social_profile_link": "https://www.tiktok.com/username/",
+					"style": "flat"
 				},
 				{
-					"social_profile_link": "https://www.twitter.com/username/"
+					"social_profile_link": "https://www.twitter.com/username/",
+					"style": "flat"
 				},
 				{
-					"social_profile_link": "https://www.instagram.com/username/"
+					"social_profile_link": "https://www.instagram.com/username/",
+					"style": "flat"
 				}
 			],
 			"main_title": [
@@ -56,7 +63,18 @@
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
 			"background_image_style": "has-radius",
 			"background_video_style": "has-radius",
-			"brand": "Brand Name"
+			"brand": "Brand Name",
+			"minBtn_link": 1,
+			"maxBtn_link": 2,
+			"btn_link": [
+				{
+					"content": "Call us"
+				},
+				{
+					"content": "Buy",
+					"style": "flat traced"
+				}
+			]
 		},
 		{
 			"color": "#000000",
@@ -95,7 +113,14 @@
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=2",
 			"background_image_style": "has-radius",
 			"background_video_style": "has-radius",
-			"brand": "Brand Name"
+			"brand": "Brand Name",
+			"minBtn_link": 1,
+			"maxBtn_link": 2,
+			"btn_link": [
+				{
+					"content": "Call us"
+				}
+			]
 		}
 	]
 }
