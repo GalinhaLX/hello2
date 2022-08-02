@@ -68,9 +68,6 @@
 			"maxBtn_link": 2,
 			"btn_link": [
 				{
-					"content": "Call us"
-				},
-				{
 					"content": "Buy",
 					"style": "flat traced"
 				}
