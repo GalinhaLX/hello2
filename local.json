@@ -27,10 +27,6 @@
 			"maxSocial": 3,
 			"listsocial": [
 				{
-					"social_profile_link": "https://www.tiktok.com/username/",
-					"style": "flat"
-				},
-				{
 					"social_profile_link": "https://www.twitter.com/username/",
 					"style": "flat"
 				},
