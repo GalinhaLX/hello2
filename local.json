@@ -11,10 +11,6 @@
 			"maxMenu": 4,
 			"listmenu": [
 				{
-					"content": "Home",
-					"style": "flat"
-				},
-				{
 					"content": "About us",
 					"style": "flat"
 				},
