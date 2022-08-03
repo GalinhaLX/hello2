@@ -2,7 +2,7 @@
 	"activateModuleCss": true,
 	"videoSource": "https://www.w3schools.com/howto/rain.mp4",
 	"imageBackgroundSource": "https://images.squarespace-cdn.com/content/v1/5ecffd618ebba96e4852c0a5/1590689160101-7HSADV224ORZTSXCFDAL/Header_02_022-copy.jpg",
-	"imageBackgroundOpacity": 0.5,
+	"imageBackgroundOpacity": 0.9,
 	"theweyword": "https://www.w3schools.com/howto/rain.mp4",
 	"videoBackgroundOpacity": 0.3
 }
