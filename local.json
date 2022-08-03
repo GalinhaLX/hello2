@@ -63,7 +63,9 @@
 					"content": "Buy",
 					"style": "flat traced"
 				}
-			]
+			],
+			"title_style": "rj-text-shadow-black",
+			"brand_style": "rj-text-shadow-black lato"
 		},
 		{
 			"color": "#000000",
