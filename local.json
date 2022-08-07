@@ -11,16 +11,10 @@
 			"maxMenu": 4,
 			"listmenu": [
 				{
-					"content": "About us",
-					"style": "flat"
+					"content": "About us"
 				},
 				{
-					"content": "FAQ",
-					"style": "flat"
-				},
-				{
-					"content": "Contact us",
-					"style": "flat"
+					"content": "Home"
 				}
 			],
 			"minSocial": 1,
@@ -51,7 +45,7 @@
 			"maliste": [],
 			"label": "Contact us",
 			"keyword": "portugal",
-			"type": "rj_hero",
+			"type": "rj_section_container",
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
 			"background_image_style": "has-radius",
 			"background_video_style": "has-radius",
@@ -64,8 +58,8 @@
 					"style": "flat traced"
 				}
 			],
-			"title_style": "rj-text-shadow-black",
-			"brand_style": "rj-text-shadow-black lato"
+			"title_style": "has-text-centered rj-text-shadow-black has-text-white lato",
+			"brand_style": "rj-text-shadow-black lato has-text-white"
 		},
 		{
 			"color": "#000000",
@@ -111,7 +105,8 @@
 				{
 					"content": "Call us"
 				}
-			]
+			],
+			"page": "vert"
 		}
 	]
 }
