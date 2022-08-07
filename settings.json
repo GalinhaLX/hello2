@@ -7,5 +7,16 @@
 	"videoBackgroundOpacity": 0.7,
 	"ColorBackground": "#006600",
 	"keyword": "https://www.w3schools.com/howto/rain.mp4",
-	"ColorBackgroundOppacity": 0.8
+	"ColorBackgroundOppacity": 0.8,
+	"spaceId": "[id]",
+	"color": {},
+	"color_srgb": {},
+	"coord_meta": [
+		{
+			"value": 45
+		}
+	],
+	"alpha": 42,
+	"alphaNumber": 42,
+	"decimals": "3"
 }
