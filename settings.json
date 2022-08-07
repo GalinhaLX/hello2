@@ -13,10 +13,10 @@
 	"color_srgb": {},
 	"coord_meta": [
 		{
-			"value": 45
+			"value": 35
 		}
 	],
-	"alpha": 42,
-	"alphaNumber": 42,
-	"decimals": "3"
+	"alpha": 57,
+	"alphaNumber": 57,
+	"decimals": 6
 }
