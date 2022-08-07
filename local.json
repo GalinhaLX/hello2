@@ -45,7 +45,7 @@
 			"maliste": [],
 			"label": "Contact us",
 			"keyword": "portugal",
-			"type": "rj_section_container",
+			"type": "rj_hero",
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
 			"background_image_style": "has-radius",
 			"background_video_style": "has-radius",
