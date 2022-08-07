@@ -16,10 +16,10 @@
 			"value": 42
 		}
 	],
-	"alpha": 1,
+	"alpha": 0.58,
 	"alphaNumber": 37,
 	"decimals": 5,
-	"hue": 204,
-	"saturation": 89,
-	"lightness": 54
+	"hue": 230,
+	"saturation": 46,
+	"lightness": 61
 }
