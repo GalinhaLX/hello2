@@ -14,12 +14,12 @@
 			"value": 42
 		}
 	],
-	"alpha": 0.66,
+	"alpha": 0.32,
 	"alphaNumber": 37,
 	"decimals": 5,
-	"hue": 210,
+	"hue": 250,
 	"saturation": 70,
-	"lightness": 55,
+	"lightness": 86,
 	"saturation2": 61,
 	"ColorBackgroundAAA": "#006600",
 	"ColorBackgroundOppacityAAA": 0.8
