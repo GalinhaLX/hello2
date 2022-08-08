@@ -18,8 +18,9 @@
 	"alpha": 0.88,
 	"alphaNumber": 37,
 	"decimals": 5,
-	"hue": 240,
+	"hue": 169,
 	"saturation": 100,
 	"lightness": 61,
-	"saturation2": 61
+	"saturation2": 61,
+	"backgroundColor": "hsla(169, 100%, 61%, 0.88)"
 }
