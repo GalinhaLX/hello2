@@ -9,14 +9,13 @@
 	"keyword": "https://www.w3schools.com/howto/rain.mp4",
 	"ColorBackgroundOppacity": 0.8,
 	"spaceId": "[id]",
-	"color": {},
 	"color_srgb": {},
 	"coord_meta": [
 		{
 			"value": 42
 		}
 	],
-	"alpha": 0.47,
+	"alpha": 0.83,
 	"alphaNumber": 37,
 	"decimals": 5,
 	"hue": 232,
