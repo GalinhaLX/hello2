@@ -15,12 +15,11 @@
 			"value": 42
 		}
 	],
-	"alpha": 0.88,
+	"alpha": 0.99,
 	"alphaNumber": 37,
 	"decimals": 5,
-	"hue": 53,
+	"hue": 277,
 	"saturation": 100,
-	"lightness": 61,
-	"saturation2": 61,
-	"backgroundColor": "hsla(16, 100%, 61%, 0.88)"
+	"lightness": 36,
+	"saturation2": 61
 }
