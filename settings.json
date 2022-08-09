@@ -2,7 +2,7 @@
 	"activateModuleCss": true,
 	"videoSource": "https://www.w3schools.com/howto/rain.mp4",
 	"imageBackgroundSource": "https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c",
-	"imageBackgroundOpacity": 1,
+	"imageBackgroundOpacity": 0.7,
 	"theweyword": "https://www.w3schools.com/howto/rain.mp4",
 	"videoBackgroundOpacity": 0.5,
 	"keyword": "cat",
@@ -14,7 +14,7 @@
 			"value": 42
 		}
 	],
-	"alpha": 0.85,
+	"alpha": 0.77,
 	"alphaNumber": 37,
 	"decimals": 5,
 	"hue": 181,
