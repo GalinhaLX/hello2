@@ -1,0 +1,10 @@
+{
+	"hue": 60,
+	"saturation": 75,
+	"lightness": 55,
+	"alpha": 1,
+	"imageBackgroundSource": "https://source.unsplash.com/1920x1200/?[if(settings.hasKeyword,'car','cat']&pic=0",
+	"imageBackgroundOpacity": 0.4,
+	"videoSource": "https://www.w3schools.com/howto/rain.mp4",
+	"videoBackgroundOpacity": 0.6
+}
