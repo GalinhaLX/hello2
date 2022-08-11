@@ -15,5 +15,6 @@
 	"name": "Felix the cat",
 	"choice": false,
 	"imageBackgroundSource1": "https://source.unsplash.com/600x300/?cat",
-	"myimage": "https://source.unsplash.com/600x300/?cat"
+	"myimage": "https://source.unsplash.com/600x300/?cat",
+	"myImage": "https://mavo.io/img/logo-mit.svg"
 }
