@@ -1,8 +1,8 @@
 {
-	"hue": 60,
+	"hue": 266,
 	"saturation": 75,
-	"lightness": 55,
-	"alpha": 1,
+	"lightness": 62,
+	"alpha": 0.89,
 	"imageBackgroundSource": "https://source.unsplash.com/1920x1200/?[if(settings.hasKeyword,'car','cat']&pic=0",
 	"imageBackgroundOpacity": 0.6,
 	"videoSource": "https://storage.coverr.co/videos/bRZDK6axXokrN02Rrv1vzJbWbb47FrwSC?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjM4Q0MzQTdGQTlGMUVDNDgxQjk3IiwiaWF0IjoxNjYwMjIzMDQwfQ.4JwuP8631WtWMdC-1syBvOlxhcJY90AptY2SXkiheBk",
