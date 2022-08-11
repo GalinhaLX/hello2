@@ -59,7 +59,9 @@
 				}
 			],
 			"title_style": "has-text-centered rj-text-shadow-black has-text-white lato",
-			"brand_style": "rj-text-shadow-black lato has-text-white"
+			"brand_style": "rj-text-shadow-black lato has-text-white",
+			"background_color_toggle": false,
+			"background_image_toggle": false
 		},
 		{
 			"color": "#000000",
@@ -106,7 +108,9 @@
 					"content": "Call us"
 				}
 			],
-			"page": "vert"
+			"page": "vert",
+			"background_color_toggle": false,
+			"background_image_toggle": false
 		}
 	]
 }
