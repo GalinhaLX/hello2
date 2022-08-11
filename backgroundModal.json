@@ -6,5 +6,5 @@
 	"imageBackgroundSource": "https://source.unsplash.com/1920x1200/?[if(settings.hasKeyword,'car','cat']&pic=0",
 	"imageBackgroundOpacity": 0.4,
 	"videoSource": "https://storage.coverr.co/videos/bRZDK6axXokrN02Rrv1vzJbWbb47FrwSC?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjM4Q0MzQTdGQTlGMUVDNDgxQjk3IiwiaWF0IjoxNjYwMjIzMDQwfQ.4JwuP8631WtWMdC-1syBvOlxhcJY90AptY2SXkiheBk",
-	"videoBackgroundOpacity": 0.6
+	"videoBackgroundOpacity": 0.5
 }
