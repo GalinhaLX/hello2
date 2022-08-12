@@ -1,5 +1,5 @@
 {
-	"hue": 266,
+	"hue": 228,
 	"saturation": 75,
 	"lightness": 62,
 	"alpha": 0.89,
@@ -7,5 +7,6 @@
 	"videoBackgroundOpacity": 0.5,
 	"avatar": "https://i.imgur.com/LPeWcag.png",
 	"imageBackgroundSource2": "https://source.unsplash.com/1920x1200/?[if(settings.hasKeyword,'car','cat']&pic=0",
-	"imageSource": "https://i.imgur.com/LPeWcag.png"
+	"imageSource": "https://i.imgur.com/LPeWcag.png",
+	"videoSource": "https://www.w3schools.com/howto/rain.mp4"
 }
