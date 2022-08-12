@@ -11,7 +11,7 @@
 	"videoSource": "https://www.w3schools.com/howto/rain.mp4",
 	"blocs": [
 		{
-			"isEditingNEW": false,
+			"isEditingNEW": true,
 			"page": "vert",
 			"tpl_src": "/tplsnew/OKhero2.html",
 			"caterogyFilter": "pricing",
@@ -71,7 +71,7 @@
 					"style": ""
 				}
 			],
-			"title": "The Original AGAIN",
+			"title": "The Original HELLO",
 			"title_style": "",
 			"subtitle": "hahah",
 			"subtitle_style": "",
