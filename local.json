@@ -59,8 +59,9 @@
 			],
 			"title_style": "has-text-centered rj-text-shadow-black has-text-white lato",
 			"brand_style": "rj-text-shadow-black lato has-text-white",
-			"background_color_toggle": false,
-			"background_image_toggle": false
+			"background_color_toggle": true,
+			"background_image_toggle": false,
+			"title": "The Original"
 		},
 		{
 			"color": "#000000",
@@ -108,7 +109,47 @@
 			],
 			"page": "vert",
 			"background_color_toggle": false,
-			"background_image_toggle": false
+			"background_image_toggle": false,
+			"title": "The Original"
+		},
+		{
+			"page": "vert",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
+			"background_color_toggle": "false",
+			"background_image_toggle": false,
+			"type": "rj_nav",
+			"who": 2,
+			"anchor": "Home",
+			"main_title": [
+				{}
+			],
+			"main_subtitle": [
+				{}
+			],
+			"title": "The Original",
+			"subtitle": "hahah",
+			"description": [],
+			"image": "https://source.unsplash.com/600x600/?[if(settings.hasKeyword,'car','cat']&pic=3",
+			"image_style": "has-radius",
+			"logo": "https://bulma.io/images/bulma-logo.png",
+			"logo_style": "has-radius",
+			"brand": "Brand Name",
+			"maliste": [],
+			"minMenu": 1,
+			"maxMenu": 2,
+			"listmenu": [],
+			"minSocial": 1,
+			"maxSocial": 2,
+			"listsocial": [],
+			"minBtn_link": 1,
+			"maxBtn_link": 2,
+			"btn_link": [
+				{
+					"content": "Call us"
+				}
+			],
+			"label": "Contact us"
 		}
 	]
 }
