@@ -61,7 +61,8 @@
 			"brand_style": "rj-text-shadow-black lato has-text-white",
 			"background_color_toggle": true,
 			"background_image_toggle": false,
-			"title": "The Original"
+			"title": "The Original",
+			"background_color_hue": "hue1"
 		},
 		{
 			"color": "#000000",
