@@ -111,7 +111,8 @@
 			"page": "vert",
 			"background_color_toggle": false,
 			"background_image_toggle": false,
-			"title": "The Original"
+			"title": "The Original",
+			"background_color_hue": "hue2"
 		},
 		{
 			"page": "vert",
