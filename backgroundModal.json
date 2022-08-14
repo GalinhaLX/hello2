@@ -12,7 +12,7 @@
 	"blocs": [
 		{
 			"where": true,
-			"isEditingNEW": true,
+			"isEditingNEW": false,
 			"page": "vert",
 			"tpl_src": "/tplsnew/main_title_divs.html",
 			"caterogyFilter": "Hero",
@@ -63,11 +63,11 @@
 			],
 			"main_subtitle": [
 				{
-					"content": "",
+					"content": null,
 					"style": ""
 				}
 			],
-			"title": "The Original titre",
+			"title": "The Original",
 			"title_style": "has-text-centered rj-text-shadow-black has-text-white lato",
 			"subtitle": "The great one",
 			"subtitle_style": "",
@@ -112,7 +112,7 @@
 				}
 			],
 			"label": "Contact us",
-			"call_to_action": "",
+			"call_to_action": null,
 			"color": "#000000",
 			"keyword": "portugal",
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
