@@ -58,13 +58,13 @@
 			"anchor": "Home",
 			"main_title": [
 				{
-					"content": null,
+					"content": "",
 					"style": ""
 				}
 			],
 			"main_subtitle": [
 				{
-					"content": null,
+					"content": "",
 					"style": ""
 				}
 			],
@@ -113,7 +113,7 @@
 				}
 			],
 			"label": "Contact us",
-			"call_to_action": null,
+			"call_to_action": "",
 			"color": "#000000",
 			"keyword": "portugal",
 			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
