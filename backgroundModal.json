@@ -14,8 +14,8 @@
 			"where": true,
 			"isEditingNEW": false,
 			"page": "vert",
-			"tpl_src": "/tplsnew/main_title_divs.html",
-			"caterogyFilter": "Hero",
+			"tpl_src": "/tplsnew/OKhero.html",
+			"caterogyFilter": "pricing",
 			"pages": [
 				"pricing",
 				"team",
@@ -23,101 +23,85 @@
 				"Hero"
 			],
 			"countFiltered": [
-				1
+				2
 			],
 			"showFiltered": [
 				[
 					{
 						"visibility": true,
-						"category": "Hero",
-						"type": "rj_hero",
-						"code": "",
-						"url": "t/hero/hero_small_1.html"
+						"category": "pricing",
+						"type": "rj_section_container",
+						"code": "bc11e5d490ff74357c512ab6a4828d5d",
+						"url": "/tplsnew/OKhero.html"
+					},
+					{
+						"visibility": true,
+						"category": "pricing",
+						"type": "rj_section_container",
+						"code": "fac4b42872f9bdfd7653763740a62a19",
+						"url": "/tplsnew/OKhero2.html"
 					}
 				]
 			],
 			"setPosition": 0,
-			"displayChoice": "t/hero/hero_small_1.html",
+			"displayChoice": "/tplsnew/OKhero.html",
 			"tempNext": [
 				[
-					0
+					1
 				]
 			],
-			"displayChoiceNext": "t/hero/hero_small_1.html",
+			"displayChoiceNext": "/tplsnew/OKhero2.html",
 			"tempPrevious": [
 				[
-					0
+					1
 				]
 			],
-			"displayChoicePrevious": "t/hero/hero_small_1.html",
-			"background_color_toggle": false,
+			"displayChoicePrevious": "/tplsnew/OKhero2.html",
+			"background_color_toggle": "false",
 			"background_image_toggle": false,
-			"type": "rj_hero",
-			"who": 0,
+			"type": "rj_nav",
+			"who": 2,
 			"anchor": "Home",
 			"main_title": [
 				{
-					"content": null,
+					"content": "",
 					"style": ""
 				}
 			],
 			"main_subtitle": [
 				{
-					"content": null,
+					"content": "",
 					"style": ""
 				}
 			],
 			"title": "The Original",
-			"title_style": "has-text-centered rj-text-shadow-black has-text-white lato",
-			"subtitle": "The great one",
+			"title_style": "",
+			"subtitle": "hahah",
 			"subtitle_style": "",
 			"description": [],
-			"image": "/assets/img/p1.png",
+			"image": "https://source.unsplash.com/600x600/?[if(settings.hasKeyword,'car','cat']&pic=3",
 			"image_style": "has-radius",
 			"logo": "https://bulma.io/images/bulma-logo.png",
 			"logo_style": "has-radius",
-			"brand": "Maru",
-			"brand_style": "rj-text-shadow-black lato has-text-white",
+			"brand": "Brand Name",
+			"brand_style": "",
 			"maliste": [],
 			"minMenu": 1,
-			"maxMenu": 4,
-			"listmenu": [
-				{
-					"content": "About us",
-					"style": ""
-				},
-				{
-					"content": "Home",
-					"style": ""
-				}
-			],
+			"maxMenu": 2,
+			"listmenu": [],
 			"minSocial": 1,
-			"maxSocial": 3,
-			"listsocial": [
-				{
-					"social_profile_link": "https://www.twitter.com/username/",
-					"style": "flat"
-				},
-				{
-					"social_profile_link": "https://www.instagram.com/username/",
-					"style": "flat"
-				}
-			],
+			"maxSocial": 2,
+			"listsocial": [],
 			"minBtn_link": 1,
 			"maxBtn_link": 2,
 			"btn_link": [
 				{
-					"content": "Buy",
-					"style": "flat traced"
+					"content": "Call us",
+					"style": ""
 				}
 			],
 			"label": "Contact us",
-			"call_to_action": null,
-			"color": "#000000",
-			"keyword": "portugal",
-			"background_image": "https://source.unsplash.com/1920x1080/?portugal&pic=1",
-			"background_image_style": "has-radius",
-			"background_video_style": "has-radius"
+			"call_to_action": ""
 		}
 	]
 }
