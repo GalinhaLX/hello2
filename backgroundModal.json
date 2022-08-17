@@ -14,5 +14,13 @@
 			"background_color_toggle": "false",
 			"background_image_toggle": false
 		}
-	]
+	],
+	"colorA": "#ff0700",
+	"textcas1": "Edition du cas1",
+	"color1": "#ffaaaa",
+	"gradient": false,
+	"grad_anim": false,
+	"color2": "#734c8f",
+	"size": 180,
+	"newDirection": "deg"
 }
