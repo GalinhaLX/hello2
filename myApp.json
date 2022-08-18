@@ -22,7 +22,9 @@
 	"monslide": [
 		{
 			"slide": [
-				"\n\t\t\n\t\t"
+				{
+					"item": "\n\t\t\n\t\t"
+				}
 			]
 		}
 	]
