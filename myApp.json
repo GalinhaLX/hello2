@@ -16,5 +16,6 @@
 	"choice": false,
 	"imageBackgroundSource1": "https://source.unsplash.com/600x300/?cat",
 	"myimage": "https://source.unsplash.com/600x300/?cat",
-	"myImage": "https://i.imgur.com/LPeWcag.png"
+	"myImage": "https://i.imgur.com/LPeWcag.png",
+	"slide": []
 }
