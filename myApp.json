@@ -20,6 +20,10 @@
 	"slide": [],
 	"item": [],
 	"monslide": [
-		"\n\t\t\n\t\t"
+		{
+			"slide": [
+				"\n\t\t\n\t\t"
+			]
+		}
 	]
 }
