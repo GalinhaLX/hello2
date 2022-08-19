@@ -61,10 +61,20 @@
 		}
 	],
 	"colorlist": [
-		"A",
-		"qsd",
-		"qsd",
-		"qsd",
-		"red"
+		{
+			"color_style": "MintCream"
+		},
+		{
+			"color_style": "qsd"
+		},
+		{
+			"color_style": "qsd"
+		},
+		{
+			"color_style": "qsd"
+		},
+		{
+			"color_style": "red"
+		}
 	]
 }
