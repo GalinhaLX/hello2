@@ -77,5 +77,6 @@
 			"color_style": "red"
 		}
 	],
-	"direct": "https://vakcin.com/assets/images/MIX_transparent.png"
+	"direct": "https://vakcin.com/assets/images/MIX_transparent.png",
+	"base": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@9d0a7f3d0b215d3f4676e90e76532b02db9f784a/images/cd60f2ca-d7c0-4cb8-8be9-8de0e9f8d666"
 }
