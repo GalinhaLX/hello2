@@ -83,13 +83,13 @@
 	"welcome": "hello qsd qdsf",
 	"uppyImage": "https://uppy.io/images/logos/uppy-dog-head-arrow.svg",
 	"monimage": "https://source.unsplash.com/Ji_G7Bu1MoM/600x400",
-	"back_color1": "#ff0004",
+	"back_color1": "#0039ff",
 	"back_has_gradient": true,
 	"back_color2": "#73fdff",
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": [
-		28,
+		49,
 		62
 	],
 	"back_grad_animate": true,
@@ -98,8 +98,8 @@
 	"alphaOLD": 0.79,
 	"back_color1_op": 64,
 	"alphaOLD2": 1,
-	"back_color1_opacity": 39,
-	"back_color2_opacity": 35,
-	"calc_color1_full": "#ff000463",
-	"calc_color2_full": "#73fdff59"
+	"back_color1_opacity": 47,
+	"back_color2_opacity": 100,
+	"calc_color1_full": "#0039ff78",
+	"calc_color2_full": "#73fdffFF"
 }
