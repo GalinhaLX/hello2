@@ -1,19 +1,20 @@
 {
 	"pourcentage": "50",
 	"back_color1": "#5f94a8",
-	"back_color1_transparency": 0,
-	"back_color1_opacity": 100,
-	"calc_color1_full": "#5f94a8FF",
-	"back_has_gradient": false,
+	"back_color1_transparency": 24,
+	"back_color1_opacity": 76,
+	"calc_color1_full": "#5f94a8C2",
+	"back_has_gradient": true,
 	"back_color2": "#9721a8",
 	"back_color2_transparency": 100,
-	"back_color2_opacity": 100,
+	"back_color2_opacity": 0,
 	"calc_color2_full": [
-		"00",
-		"00"
+		"#9721a800",
+		"#9721a800"
 	],
 	"temp_size": 90,
 	"temp_direction": "to left",
 	"back_gradient_hint": 63,
-	"back_grad_animate": false
+	"back_grad_animate": false,
+	"calc_background": "to left, \n                    #5f94a8C2 ,63 %, \n                    #9721a800, #9721a800"
 }
