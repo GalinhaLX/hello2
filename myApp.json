@@ -7,13 +7,13 @@
 	"back_gradient_hint": 43,
 	"back_grad_animate": true,
 	"back_color1_opacity": 10,
-	"back_color2_opacity": 100,
+	"back_color2_opacity": 63,
 	"calc_color1_full": "#920e581A",
 	"calc_color2_full": [
-		"#0192ffFF",
-		"#0192ffFF"
+		"#0192ffA1",
+		"#0192ffA1"
 	],
 	"back_color1_transparency": 90,
-	"back_color2_transparency": 0,
+	"back_color2_transparency": 37,
 	"pourcentage": "50"
 }
