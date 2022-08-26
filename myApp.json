@@ -98,8 +98,8 @@
 	"alphaOLD": 0.79,
 	"back_color1_op": 64,
 	"alphaOLD2": 1,
-	"back_color1_opacity": 0,
+	"back_color1_opacity": 54,
 	"back_color2_opacity": 88,
-	"calc_color1_full": "#ff273700",
+	"calc_color1_full": "#ff27378A",
 	"calc_color2_full": "#73fdffE0"
 }
