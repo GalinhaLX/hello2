@@ -87,7 +87,7 @@
 	"back_has_gradient": true,
 	"back_color2": "#73fdff",
 	"temp_size": 90,
-	"temp_direction": "to top right",
+	"temp_direction": "to top left",
 	"back_gradient_hint": [
 		45,
 		62
@@ -98,8 +98,8 @@
 	"alphaOLD": 0.79,
 	"back_color1_op": 64,
 	"alphaOLD2": 1,
-	"back_color1_opacity": 33,
+	"back_color1_opacity": 60,
 	"back_color2_opacity": 57,
-	"calc_color1_full": "#ff000454",
+	"calc_color1_full": "#ff000499",
 	"calc_color2_full": "#73fdff91"
 }
