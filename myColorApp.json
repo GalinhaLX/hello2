@@ -6,11 +6,11 @@
 	"calc_color1_full": "#5f94a870",
 	"back_has_gradient": true,
 	"back_color2": "#a8100a",
-	"back_color2_transparency": 33,
-	"back_color2_opacity": 67,
+	"back_color2_transparency": 23,
+	"back_color2_opacity": 77,
 	"calc_color2_full": [
-		"#a8100aAB",
-		"#a8100aAB"
+		"#a8100aC4",
+		"#a8100aC4"
 	],
 	"temp_size": 90,
 	"temp_direction": "to left",
