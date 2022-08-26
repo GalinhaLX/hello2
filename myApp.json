@@ -1,5 +1,5 @@
 {
-	"back_color1": "#4a4a4a",
+	"back_color1": "#920e58",
 	"back_has_gradient": true,
 	"back_color2": "#0007ff",
 	"temp_size": 90,
@@ -8,7 +8,7 @@
 	"back_grad_animate": false,
 	"back_color1_opacity": 22,
 	"back_color2_opacity": 100,
-	"calc_color1_full": "#4a4a4a38",
+	"calc_color1_full": "#920e5838",
 	"calc_color2_full": [
 		"#0007ffFF",
 		"#0007ffFF"
