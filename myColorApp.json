@@ -4,13 +4,13 @@
 	"back_color1_transparency": 22,
 	"back_color1_opacity": 78,
 	"calc_color1_full": "#5f94a8C7",
-	"back_has_gradient": false,
+	"back_has_gradient": true,
 	"back_color2": "#9721a8",
 	"back_color2_transparency": 72,
-	"back_color2_opacity": 100,
+	"back_color2_opacity": 28,
 	"calc_color2_full": [
-		"00",
-		"00"
+		"#9721a847",
+		"#9721a847"
 	],
 	"temp_size": 90,
 	"temp_direction": "to left",
