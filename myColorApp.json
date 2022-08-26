@@ -5,15 +5,15 @@
 	"calc_color1_full": "#000000FF",
 	"back_has_gradient": true,
 	"back_color2": "#000000",
-	"back_color2_transparency": 0,
-	"back_color2_opacity": 100,
+	"back_color2_transparency": 54,
+	"back_color2_opacity": 46,
 	"calc_color2_full": [
-		"FF",
-		"#000000FF"
+		"75",
+		"#00000075"
 	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 54,
 	"back_grad_animate": false,
-	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    FF, #000000FF"
+	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    75, #00000075"
 }
