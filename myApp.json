@@ -88,9 +88,9 @@
 	"back_color2": "#73fdff",
 	"temp_size": 90,
 	"temp_direction": "to right",
-	"back_gradient_hint": 57,
+	"back_gradient_hint": 37,
 	"back_grad_animate": true,
 	"pourcentage": "50",
-	"alpha": 0.34,
+	"alpha": 0.72,
 	"alphaOLD": 0.35
 }
