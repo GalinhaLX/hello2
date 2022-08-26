@@ -3,17 +3,17 @@
 	"back_color1_transparency": 0,
 	"back_color1_opacity": 100,
 	"calc_color1_full": "#000000FF",
-	"back_has_gradient": false,
+	"back_has_gradient": true,
 	"back_color2": "#000000",
 	"back_color2_transparency": 0,
 	"back_color2_opacity": 100,
 	"calc_color2_full": [
-		"00",
-		"00"
+		"FF",
+		"#000000FF"
 	],
 	"temp_size": 90,
-	"temp_direction": "deg",
+	"temp_direction": "90deg",
 	"back_gradient_hint": 54,
 	"back_grad_animate": false,
-	"calc_background": "to right, \n                    #000000FF , \n                    "
+	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    FF, #000000FF"
 }
