@@ -87,7 +87,7 @@
 	"back_has_gradient": true,
 	"back_color2": "#73fdff",
 	"temp_size": 90,
-	"temp_direction": "to top left",
-	"back_gradient_hint": 78,
+	"temp_direction": "to right",
+	"back_gradient_hint": 73,
 	"back_grad_animate": true
 }
