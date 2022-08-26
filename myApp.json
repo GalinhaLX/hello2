@@ -6,13 +6,13 @@
 	"temp_direction": "90deg",
 	"back_gradient_hint": 51,
 	"back_grad_animate": false,
-	"back_color1_opacity": 13,
+	"back_color1_opacity": 23,
 	"back_color2_opacity": 100,
-	"calc_color1_full": "#4a4a4a21",
+	"calc_color1_full": "#4a4a4a3B",
 	"calc_color2_full": [
 		"#ff0000FF",
 		"#ff0000FF"
 	],
-	"back_color1_transparency": 87,
+	"back_color1_transparency": 77,
 	"back_color2_transparency": 0
 }
