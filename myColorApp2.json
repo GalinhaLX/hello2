@@ -1,17 +1,17 @@
 {
-	"calc_background": "90deg, \n                    #000000FF ,50%; \n                    #bebd9b, #bebd9b8F",
+	"calc_background": "90deg, \n                    #000000FF ,50%; \n                    #bebd9b, #bebd9b4D",
 	"back_color1": "#000000",
 	"back_color1_transparency": 0,
 	"back_color1_opacity": 100,
 	"calc_color1_full": "#000000FF",
 	"back_has_gradient": true,
 	"back_color2": "#bebd9b",
-	"back_color2_transparency": 44,
-	"back_color2_opacity": 56,
-	"calc_color2_temp": "8F",
+	"back_color2_transparency": 70,
+	"back_color2_opacity": 30,
+	"calc_color2_temp": "4D",
 	"calc_color2_full": [
 		"#bebd9b",
-		"#bebd9b8F"
+		"#bebd9b4D"
 	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
