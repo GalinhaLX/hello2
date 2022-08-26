@@ -1,7 +1,7 @@
 {
 	"back_color1": "#4a4a4a",
 	"back_has_gradient": true,
-	"back_color2": "#000000",
+	"back_color2": "#ff0000",
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 51,
@@ -10,8 +10,8 @@
 	"back_color2_opacity": 100,
 	"calc_color1_full": "#4a4a4a21",
 	"calc_color2_full": [
-		"#000000FF",
-		"#000000FF"
+		"#ff0000FF",
+		"#ff0000FF"
 	],
 	"back_color1_transparency": 87,
 	"back_color2_transparency": 0
