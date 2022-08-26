@@ -1,21 +1,21 @@
 {
-	"back_color1": "#000000",
-	"back_color1_transparency": 0,
-	"back_color1_opacity": 100,
-	"calc_color1_full": "#000000FF",
+	"back_color1": "#213ea3",
+	"back_color1_transparency": 37,
+	"back_color1_opacity": 63,
+	"calc_color1_full": "#213ea3A1",
 	"back_has_gradient": true,
 	"back_color2": "#000000",
-	"back_color2_transparency": 53,
-	"back_color2_opacity": 47,
+	"back_color2_transparency": 63,
+	"back_color2_opacity": 37,
 	"calc_color2_full": [
 		"78",
-		"#00000078"
+		"#0000005E"
 	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 54,
 	"back_grad_animate": false,
-	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    78, #00000078",
+	"calc_background": "90deg, \n                    #213ea3A1 ,54%; \n                    78, #0000005E",
 	"pourcentage": "50",
-	"calc_color2_temp": "78"
+	"calc_color2_temp": "5E"
 }
