@@ -1,9 +1,9 @@
 {
 	"pourcentage": "50",
 	"back_color1": "#5f94a8",
-	"back_color1_transparency": 0,
-	"back_color1_opacity": 100,
-	"calc_color1_full": "#5f94a8FF",
+	"back_color1_transparency": 18,
+	"back_color1_opacity": 82,
+	"calc_color1_full": "#5f94a8D1",
 	"back_has_gradient": true,
 	"back_color2": "#9721a8",
 	"back_color2_transparency": 100,
