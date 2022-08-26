@@ -6,9 +6,8 @@
 	"calc_color1_full": "#000000FF",
 	"back_has_gradient": true,
 	"back_color2": "#bebd9b",
-	"back_color2_transparency": 38,
-	"back_color2_opacity": 62,
-	"calc_color2_temp": "4D",
+	"back_color2_transparency": 26,
+	"back_color2_opacity": 74,
 	"calc_color2_full": [
 		"#bebd9b4D",
 		"#bebd9b4D"
