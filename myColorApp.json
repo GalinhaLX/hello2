@@ -5,17 +5,17 @@
 	"calc_color1_full": "#a30d40A1",
 	"back_has_gradient": true,
 	"back_color2": "#87ba3e",
-	"back_color2_transparency": 63,
-	"back_color2_opacity": 37,
+	"back_color2_transparency": 23,
+	"back_color2_opacity": 77,
 	"calc_color2_full": [
 		"78",
-		"#87ba3e5E"
+		"#87ba3eC4"
 	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 54,
 	"back_grad_animate": false,
-	"calc_background": "90deg, \n                    #a30d40A1 ,54%; \n                    78, #87ba3e5E",
+	"calc_background": "90deg, \n                    #a30d40A1 ,54%; \n                    78, #87ba3eC4",
 	"pourcentage": "50",
-	"calc_color2_temp": "5E"
+	"calc_color2_temp": "C4"
 }
