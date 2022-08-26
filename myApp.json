@@ -1,109 +1,17 @@
 {
-	"data_pane": "Attract > with a long text > to see what happens ",
-	"team_title": "Title",
-	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
-	"member": [
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		}
-	],
-	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"video": "https://cdn.videvo.net/videvo_files/video/free/2019-07/small_watermarked/Raw_Vegan_Blueberry_Cake_Cut_Birthday_Cooking_preview.webm",
-	"name": "Felix the cat",
-	"choice": false,
-	"imageBackgroundSource1": "https://source.unsplash.com/600x300/?cat",
-	"myimage": "https://source.unsplash.com/600x300/?cat",
-	"myImage": "https://i.imgur.com/LPeWcag.png",
-	"slide": [],
-	"item": [
-		"2ertyuio"
-	],
-	"monslide": [
-		{
-			"slide": [
-				{
-					"item": "\n\t\t\n\t\t"
-				}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		},
-		{
-			"slide": [
-				{}
-			]
-		}
-	],
-	"colorlist": [
-		{
-			"color_style": "MintCream"
-		},
-		{
-			"color_style": "MistyRose"
-		},
-		{
-			"color_style": "qsd"
-		},
-		{
-			"color_style": "qsd"
-		},
-		{
-			"color_style": "red"
-		}
-	],
-	"direct": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"base": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@9d0a7f3d0b215d3f4676e90e76532b02db9f784a/images/cd60f2ca-d7c0-4cb8-8be9-8de0e9f8d666",
-	"myfile": "C:\\fakepath\\avatar.png",
-	"welcome": "hello qsd qdsf",
-	"uppyImage": "https://uppy.io/images/logos/uppy-dog-head-arrow.svg",
-	"monimage": "https://source.unsplash.com/Ji_G7Bu1MoM/600x400",
-	"back_color1": "#ffacb3",
-	"back_has_gradient": true,
-	"back_color2": "#00cccc",
+	"back_color1": "#000000",
+	"back_has_gradient": false,
+	"back_color2": "#000000",
 	"temp_size": 90,
-	"temp_direction": "to top right",
-	"back_gradient_hint": [
-		51,
-		62
-	],
-	"back_grad_animate": true,
-	"pourcentage": "50",
-	"alpha": 0.72,
-	"alphaOLD": 0.79,
-	"back_color1_op": 64,
-	"alphaOLD2": 1,
+	"temp_direction": "deg",
+	"back_gradient_hint": 51,
+	"back_grad_animate": false,
 	"back_color1_opacity": 100,
 	"back_color2_opacity": 100,
-	"calc_color1_full": "#ffacb3FF",
+	"calc_color1_full": "#000000FF",
 	"calc_color2_full": [
-		"#00ccccFF",
-		"#00ccccFF"
+		"00",
+		"00"
 	],
 	"back_color1_transparency": 0,
 	"back_color2_transparency": 0
