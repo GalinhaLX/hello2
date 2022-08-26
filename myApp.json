@@ -95,7 +95,7 @@
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"alpha": 0.72,
-	"alphaOLD": 0.19,
+	"alphaOLD": 0.8,
 	"back_color1_op": 64,
-	"alphaOLD2": 0.03
+	"alphaOLD2": 0.72
 }
