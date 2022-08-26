@@ -15,5 +15,7 @@
 	"temp_direction": "90deg",
 	"back_gradient_hint": 54,
 	"back_grad_animate": false,
-	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    78, #00000078"
+	"calc_background": "90deg, \n                    #000000FF ,54%; \n                    78, #00000078",
+	"pourcentage": "50",
+	"calc_color2_temp": "78"
 }
