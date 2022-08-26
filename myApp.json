@@ -5,7 +5,7 @@
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": 43,
-	"back_grad_animate": false,
+	"back_grad_animate": true,
 	"back_color1_opacity": 10,
 	"back_color2_opacity": 100,
 	"calc_color1_full": "#920e581A",
