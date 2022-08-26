@@ -84,10 +84,10 @@
 	"uppyImage": "https://uppy.io/images/logos/uppy-dog-head-arrow.svg",
 	"monimage": "https://source.unsplash.com/Ji_G7Bu1MoM/600x400",
 	"back_color1": "#008f51",
-	"back_has_gradient": true,
+	"back_has_gradient": false,
 	"back_color2": "#2ebf91",
 	"temp_size": 90,
-	"temp_direction": "90deg",
+	"temp_direction": "deg",
 	"back_gradient_hint": 50,
 	"back_grad_animate": false
 }
