@@ -85,7 +85,7 @@
 	"monimage": "https://source.unsplash.com/Ji_G7Bu1MoM/600x400",
 	"back_color1": "#ff0033",
 	"back_has_gradient": true,
-	"back_color2": "#73fdff",
+	"back_color2": "#00cccc",
 	"temp_size": 90,
 	"temp_direction": "to left",
 	"back_gradient_hint": [
@@ -102,9 +102,9 @@
 	"back_color2_opacity": 7,
 	"calc_color1_full": "#ff0033FF",
 	"calc_color2_full": [
-		"#73fdff12",
-		"#73fdff12"
+		"#00cccc12",
+		"#00cccc12"
 	],
 	"back_color1_transparency": 0,
-	"back_color2_transparency": 0
+	"back_color2_transparency": 59
 }
