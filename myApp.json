@@ -89,12 +89,12 @@
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": [
-		64,
+		75,
 		62
 	],
 	"back_grad_animate": true,
 	"pourcentage": "50",
 	"alpha": 0.72,
-	"alphaOLD": 1,
+	"alphaOLD": 0.23,
 	"back_color1_op": 64
 }
