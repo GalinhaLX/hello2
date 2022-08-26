@@ -89,7 +89,7 @@
 	"temp_size": 90,
 	"temp_direction": "to right",
 	"back_gradient_hint": [
-		75,
+		45,
 		62
 	],
 	"back_grad_animate": true,
