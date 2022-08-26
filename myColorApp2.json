@@ -1,18 +1,18 @@
 {
 	"pourcentage": "50",
-	"calc_background": "90deg, \n                    #00059887 ,50%; \n                    #a59cbeA1, #a59cbeA1",
+	"calc_background": "90deg, \n                    #00059887 ,50%; \n                    #a59cbeA1, #7d78beA1",
 	"back_color1": "#000598",
 	"back_color1_transparency": 47,
 	"back_color1_opacity": 53,
 	"calc_color1_full": "#00059887",
 	"back_has_gradient": true,
-	"back_color2": "#a59cbe",
+	"back_color2": "#7d78be",
 	"back_color2_transparency": 37,
 	"back_color2_opacity": 63,
 	"calc_color2_temp": "A1",
 	"calc_color2_full": [
 		"#a59cbeA1",
-		"#a59cbeA1"
+		"#7d78beA1"
 	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
