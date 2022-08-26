@@ -6,14 +6,14 @@
 	"temp_direction": "to top right",
 	"back_gradient_hint": 51,
 	"back_grad_animate": false,
-	"back_color1_opacity": 41,
+	"back_color1_opacity": 22,
 	"back_color2_opacity": 100,
-	"calc_color1_full": "#4a4a4a69",
+	"calc_color1_full": "#4a4a4a38",
 	"calc_color2_full": [
 		"#0007ffFF",
 		"#0007ffFF"
 	],
-	"back_color1_transparency": 59,
+	"back_color1_transparency": 78,
 	"back_color2_transparency": 0,
 	"pourcentage": "50"
 }
