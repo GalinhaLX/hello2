@@ -16,5 +16,6 @@
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 50,
-	"back_grad_animate": false
+	"back_grad_animate": false,
+	"pourcentage": "50"
 }
