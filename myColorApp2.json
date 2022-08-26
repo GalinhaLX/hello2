@@ -10,7 +10,10 @@
 	"back_color2_transparency": 70,
 	"back_color2_opacity": 30,
 	"calc_color2_temp": "4D",
-	"calc_color2_full": "#a59cbe4D",
+	"calc_color2_full": [
+		"#a59cbe4D",
+		"#a59cbe4D"
+	],
 	"temp_size": 90,
 	"temp_direction": "90deg",
 	"back_gradient_hint": 50,
