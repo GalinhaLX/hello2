@@ -83,7 +83,7 @@
 	"welcome": "hello qsd qdsf",
 	"uppyImage": "https://uppy.io/images/logos/uppy-dog-head-arrow.svg",
 	"monimage": "https://source.unsplash.com/Ji_G7Bu1MoM/600x400",
-	"back_color1": "#ff2737",
+	"back_color1": "#ff89b2",
 	"back_has_gradient": true,
 	"back_color2": "#73fdff",
 	"temp_size": 90,
@@ -100,6 +100,6 @@
 	"alphaOLD2": 1,
 	"back_color1_opacity": 85,
 	"back_color2_opacity": 88,
-	"calc_color1_full": "#ff2737D9",
+	"calc_color1_full": "#ff89b2D9",
 	"calc_color2_full": "#73fdffE0"
 }
