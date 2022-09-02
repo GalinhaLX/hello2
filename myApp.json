@@ -1,24 +1,3 @@
 {
-	"back_color1": "#920e58",
-	"back_has_gradient": true,
-	"back_color2": "#0192ff",
-	"temp_size": 90,
-	"temp_direction": "to right",
-	"back_gradient_hint": 43,
-	"back_grad_animate": true,
-	"back_color1_opacity": 10,
-	"back_color2_opacity": 63,
-	"calc_color1_full": "#920e581A",
-	"calc_color2_full": [
-		"#0192ffA1",
-		"#0192ffA1"
-	],
-	"back_color1_transparency": 90,
-	"back_color2_transparency": 37,
-	"pourcentage": "50",
-	"base": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello2@fda51e516d81d8bf02fcc7c3bb444fbabd8eea0d/images/aa1845a8-ae12-43a1-9d35-18a1fed4396f",
-	"is_back_image": "https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxOHx8cmFuZG9tfGVufDB8MHx8fDE2NjIwNTg4ODg&ixlib=rb-1.2.1&q=80&w=400",
-	"calc1": "https://images.unsplash.com/photo-1499244571948-7ccddb3583f1",
-	"calc2": "ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxOHx8cmFuZG9tfGVufDB8MHx8fDE2NjIwNTg4ODg",
-	"is_back_image_corrected": "https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?ixid=MnwzNTcyMDB8MHwxfHNlYXJjaHwxOHx8cmFuZG9tfGVufDB8MHx8fDE2NjIwNTg4ODg"
+	"is_back_image_corrected": "?"
 }
