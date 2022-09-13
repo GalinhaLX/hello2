@@ -15,7 +15,12 @@
 		{
 			"offer_name": "Special offer 2",
 			"offer_category": [
-				{}
+				{
+					"offer_category_name": "Main course"
+				},
+				{
+					"offer_category_name": "Desert"
+				}
 			]
 		}
 	],
