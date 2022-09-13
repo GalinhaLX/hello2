@@ -1,0 +1,18 @@
+{
+	"offers": [
+		{
+			"name": "Special offer 1",
+			"category": [
+				{
+					"category_name": "Starter"
+				},
+				{
+					"category_name": "Main course"
+				},
+				{
+					"category_name": "Desert"
+				}
+			]
+		}
+	]
+}
