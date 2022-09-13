@@ -16,10 +16,10 @@
 			"offer_name": "Menu 2",
 			"offer_category": [
 				{
-					"offer_category_name": "Main course"
+					"offer_category_name": "b"
 				},
 				{
-					"offer_category_name": "Desert"
+					"offer_category_name": "c"
 				}
 			],
 			"offer_price": "12"
@@ -28,7 +28,7 @@
 			"offer_name": "Menu 3",
 			"offer_category": [
 				{
-					"offer_category_name": "Starter"
+					"offer_category_name": "a"
 				},
 				{
 					"offer_category_name": "Main course"
