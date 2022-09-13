@@ -11,6 +11,12 @@
 				}
 			],
 			"offer_price": "10"
+		},
+		{
+			"offer_name": "Special offer 2",
+			"offer_category": [
+				{}
+			]
 		}
 	],
 	"cart": [
