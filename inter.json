@@ -1,8 +1,14 @@
 {
 	"offer": [
 		{
+			"offer_name": "Special offer 1",
 			"offer_category": [
-				{}
+				{
+					"offer_category_name": "Starter"
+				},
+				{
+					"offer_category_name": "Main course"
+				}
 			]
 		}
 	],
