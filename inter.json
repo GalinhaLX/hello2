@@ -42,7 +42,10 @@
 	],
 	"cart": [
 		{
-			"cart_category_name": "Other"
+			"cart_category_name": "Starter"
+		},
+		{
+			"cart_category_name": "Main course"
 		}
 	]
 }
