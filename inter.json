@@ -43,6 +43,9 @@
 	"cart": [
 		{
 			"cart_category_name": "Starter"
+		},
+		{
+			"cart_category_name": "Main course"
 		}
 	]
 }
