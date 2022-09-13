@@ -15,5 +15,19 @@
 			],
 			"price": "10"
 		}
+	],
+	"offer": [
+		{
+			"offer_category": [
+				{}
+			]
+		}
+	],
+	"cart": [
+		{
+			"cart_category": [
+				{}
+			]
+		}
 	]
 }
