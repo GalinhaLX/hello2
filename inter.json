@@ -31,10 +31,10 @@
 					"offer_category_name": "a"
 				},
 				{
-					"offer_category_name": "Main course"
+					"offer_category_name": "b"
 				},
 				{
-					"offer_category_name": "Desert"
+					"offer_category_name": "c"
 				}
 			],
 			"offer_price": "15"
