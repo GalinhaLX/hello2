@@ -49,6 +49,33 @@
 		},
 		{
 			"cart_category_name": "Starter"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Desert"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Main course"
+		},
+		{
+			"cart_category_name": "Starter"
+		},
+		{
+			"cart_category_name": "Starter"
 		}
 	]
 }
