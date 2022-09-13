@@ -1,40 +1,40 @@
 {
 	"offer": [
 		{
-			"offer_name": "Group 1",
+			"offer_name": "Menu 1",
 			"offer_category": [
 				{
-					"offer_category_name": "a"
+					"offer_category_name": "Starters"
 				},
 				{
-					"offer_category_name": "b"
+					"offer_category_name": "Main course"
 				}
 			],
 			"offer_price": "10"
 		},
 		{
-			"offer_name": "Group 2",
+			"offer_name": "Menu 2",
 			"offer_category": [
 				{
-					"offer_category_name": "b"
+					"offer_category_name": "Main course"
 				},
 				{
-					"offer_category_name": "c"
+					"offer_category_name": "Desert"
 				}
 			],
 			"offer_price": "12"
 		},
 		{
-			"offer_name": "Group 3",
+			"offer_name": "Menu 3",
 			"offer_category": [
 				{
 					"offer_category_name": "a"
 				},
 				{
-					"offer_category_name": "b"
+					"offer_category_name": "Main course"
 				},
 				{
-					"offer_category_name": "c"
+					"offer_category_name": "Desert"
 				}
 			],
 			"offer_price": "15"
