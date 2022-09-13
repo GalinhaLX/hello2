@@ -42,14 +42,6 @@
 	],
 	"cart": [
 		{
-			"cart_category": [
-				{
-					"cart_category_name": "Starter"
-				},
-				{}
-			]
-		},
-		{
 			"cart_category_name": "Starter"
 		}
 	]
