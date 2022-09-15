@@ -4,6 +4,12 @@
 			"name": "Entrées",
 			"plats": [
 				{
+					"nameb": "C"
+				},
+				{
+					"nameb": "B"
+				},
+				{
 					"item": [
 						{
 							"nameb": "1"
@@ -27,7 +33,8 @@
 							"nameb": "7"
 						},
 						{}
-					]
+					],
+					"nameb": "A"
 				}
 			]
 		},
@@ -35,10 +42,14 @@
 			"name": "Desserts",
 			"plats": [
 				{
+					"nameb": "1"
+				},
+				{
 					"item": [
 						{},
 						{}
-					]
+					],
+					"nameb": "2"
 				}
 			]
 		}
