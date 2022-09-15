@@ -37,24 +37,6 @@
 					"nameb": "A"
 				}
 			]
-		},
-		{
-			"name": "Desserts",
-			"plats": [
-				{
-					"nameb": "3"
-				},
-				{
-					"nameb": "2"
-				},
-				{
-					"item": [
-						{},
-						{}
-					],
-					"nameb": "1"
-				}
-			]
 		}
 	]
 }
